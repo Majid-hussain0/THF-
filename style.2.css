@@ -9,10 +9,10 @@
     height: 400px;
 }
 .top1{
-    padding: 5%;
+    padding: 2%;
     text-align: center;
     color: white;
-    font-size: 70px;
+    font-size: 60px;
     
 }
  .main1{
@@ -30,8 +30,8 @@
     padding: 3%;
 }
 .images{
-    width: 400px;
-    height: 300px;
+    width: 320px;
+    height: 250px;
     border-radius: 10px;
 }
 .footer{
