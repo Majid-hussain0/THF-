@@ -2,7 +2,7 @@
     font-family: 'Rakkas';
 }
 .main {
-    background-image: url(THF/images/background-2.jpg);
+    background-image: url(background-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -16,7 +16,7 @@
     
 }
  .main1{
-    background-image: url(THF/images/background-3.jpg);
+    background-image: url(background-3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
