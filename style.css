@@ -1,0 +1,135 @@
+.font1{
+    font-family: 'Rakkas';
+    background-color: antiquewhite;
+}
+.img2{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+body{
+    background-color: aquamarine;
+}
+.navbar-nav {
+    margin-left: auto;
+    font-family: 'Rakkas'
+}
+
+.carousel-item{
+    
+}
+.video1{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+}
+.centerz{
+    padding: 5%;
+    
+
+}
+.come1{
+    margin-left: 8%;
+}
+.come2{
+    margin-left: 5%;
+}
+.color2{
+    text-decoration: none;
+}
+.head1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 3%;
+}
+.row1{
+    padding: 5%;
+}
+.col3{
+    text-align: center;
+    padding: 5%;
+
+}
+.col4{
+    text-align: center;
+    padding: 5%;
+    margin: 0 7% 0 7%;
+}
+.col5{
+   text-align: right;
+}
+.col6{
+     text-align: left;
+     
+}
+.bannerarea{
+    text-align: center;
+    padding: 5%;
+}
+.padding1{
+    padding: 5%;
+} 
+.color1 {
+     text-decoration: none;    
+}
+.color1:hover{
+    color: white;
+    opacity: 10;
+}
+.banner1{
+    width: 330px;
+    height: 160px;
+    border-radius: 10px;
+    
+}
+.banner1:hover{
+    transform: scale(1.1);
+}
+
+.footer{
+    background-color: black;
+    width: 100%;
+    color: white;
+    
+}
+.fa{
+    padding: 8px;
+    margin: 2% 0 2% 0;
+    text-decoration: none;
+}
+.fa-instagram{
+    color: orangered;
+    background-color: white;
+    border-radius: 7px;
+    
+}
+.fa-facebook{
+    color: blue;
+    background-color: white;
+    border-radius: 7px;
+}
+.fa-twitter{
+    color: blue;
+    background-color: white;
+    border-radius: 7px;
+}
+.fa-linkedin{
+    color: blue;
+    background-color: white;
+    border-radius: 7px;
+}
+.fa-youtube{
+    color: red;
+    background-color: white;
+    border-radius: 7px;
+}
+.footer1{
+    padding: 3%;
+  
+}
+.footer4{
+    padding: 3%;
+}
+.fa-envelope{
+    color: white;
+}

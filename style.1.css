@@ -1,0 +1,42 @@
+.font1{
+    font-family: 'Rakkas'; 
+}
+ .main {
+    color: white;
+    background-image: url(THF/images/background-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;   
+}
+.firstrow{
+    padding: 5%;
+    margin: 2% 2% 2% 2%; 
+    text-align: center;
+}
+.video{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+}
+.breakline{
+    width: 100%;
+    border-style: dashed;
+}
+.mainhead{
+    text-align: center;
+    padding: 5%;
+    font-size: 60px;
+}
+.secondrow{
+    padding: 5%;
+    margin: 3% 0 3% 0;
+}
+.images{
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.python{
+    margin-left: 100px;
+    border-radius: 10px;
+    width: 400px;
+} 
