@@ -14,8 +14,8 @@
     text-align: center;
 }
 .video{
-    width: 500px;
-    height: 300px;
+    width: 320px;
+    height: 250px;
     border-radius: 10px;
 }
 .breakline{
@@ -32,11 +32,9 @@
     margin: 3% 0 3% 0;
 }
 .images{
-    margin-left: 100px;
     border-radius: 10px;
+    width: 320px;
+    height: 350px;
 }
-.python{
-    margin-left: 100px;
-    border-radius: 10px;
-    width: 400px;
-} 
+
+ 
