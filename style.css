@@ -84,7 +84,7 @@ body{
     transform: scale(1.1);
 }
 .background {
-    background-image: url(images/backgroundgrowth.jpg);
+    background-image: url(backgroundgrowth.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 20%;
